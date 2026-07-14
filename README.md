@@ -1,16 +1,67 @@
-## Hi there 👋
+# Hi 👋 I'm Hoang Manh Cuong
 
-<!--
-**cuongherok4/cuongherok4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## AI Engineer | Machine Learning | LLM | RAG
 
-Here are some ideas to get you started:
+I'm a recent Information Technology graduate passionate about building AI-powered applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤖 AI Engineer
+- 📚 Research in LLM & Retrieval-Augmented Generation (RAG)
+- 💻 Python | FastAPI | PyTorch
+- 🔥 Interested in LLM, Agentic AI, Computer Vision
+- 🌱 Currently seeking AI Engineer opportunities
+
+---
+
+## 🚀 About Me
+
+I have nearly one year of experience developing AI applications, including:
+
+- LLM Applications
+- Retrieval-Augmented Generation (RAG)
+- Computer Vision
+- Deep Learning
+- Backend APIs with FastAPI
+
+I enjoy solving real-world problems using Artificial Intelligence.
+
+---
+
+## 🛠 Tech Stack
+
+Python • FastAPI • PyTorch • TensorFlow • OpenCV • YOLO
+
+LangChain • LangGraph • HuggingFace • Ollama • FAISS • ChromaDB
+
+Docker • Git • MySQL • PostgreSQL
+
+---
+
+## ⭐ Featured Projects
+
+🧠 Laptop Recommendation using RAG
+
+🤖 AI Chatbot with LLM
+
+📷 Animal Detection using YOLO
+
+📝 Document Question Answering
+
+---
+
+## 📄 Research
+
+Integrating Large Language Models and Retrieval-Augmented Generation
+for Laptop Recommendation Systems
+
+---
+
+## 📫 Contact
+
+Email:
+your_email@gmail.com
+
+LinkedIn:
+https://linkedin.com/in/your-link
+
+Portfolio:
+Coming soon...
